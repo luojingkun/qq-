@@ -1,3 +1,0 @@
-napcat
-flask
-requests
